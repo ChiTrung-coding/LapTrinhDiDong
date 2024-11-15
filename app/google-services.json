@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "960444313427",
+    "firebase_url": "https://vietschool-203f0-default-rtdb.firebaseio.com",
+    "project_id": "vietschool-203f0",
+    "storage_bucket": "vietschool-203f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960444313427:android:075e3e4c0013d633467ba6",
+        "android_client_info": {
+          "package_name": "com.example.vietschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbsj2UOH8dn3pFD0bdlZLoj8fmwjPZZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
